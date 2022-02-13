@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🧐 &nbsp;Interested in full stack developer roles with 5+ years development working experience.\
+🧐 &nbsp;Interested in Full Stack Developer roles with 5+ years development working experience.\
 💼 &nbsp;I'm currently working as a Senior Application Engineer at Oracle IDC.\
 🎓 &nbsp;Bachelor in Technology [Computer Science].\
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Cloud Architecture.\
